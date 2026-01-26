@@ -47,4 +47,10 @@ The game incorporates audio playback, custom images, and interactive visual elem
 - **Frame3** manages evidence: diary entries, inheritance clauses, and clickable crime‑scene images.  
 - **Frame4** implements the guessing system, tracks incorrect attempts, and reveals the ending.  
 - Shared data (frames, audio, incorrect guesses) is stored in `ApplicationData`.
+## Future Improvements
+- Improving overall design, and user experience on all frames
+- Animated Transitions / Character Animations
+- Save/Load System
+- Hint System
+- Inventory System 
 
