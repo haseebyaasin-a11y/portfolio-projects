@@ -48,9 +48,3 @@ The game incorporates audio playback, custom images, and interactive visual elem
 - **Frame4** implements the guessing system, tracks incorrect attempts, and reveals the ending.  
 - Shared data (frames, audio, incorrect guesses) is stored in `ApplicationData`.
 
-## Technologies Used
-- Java  
-- Java Swing (JFrame, JPanel, JLabel, JButton, JComboBox, JScrollPane, JTabbedPane)  
-- Image scaling and resource loading  
-- Event‑driven programming with ActionListeners  
-
