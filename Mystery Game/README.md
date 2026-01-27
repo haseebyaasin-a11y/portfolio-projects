@@ -38,7 +38,7 @@ The game features branching dialogue, interrogation intensity mechanics, and a s
 ### Software Architecture
 The application uses a modular, frame‑based design with shared state management through `ApplicationData`, separating UI, logic, and assets for maintainability.
 
-### 🔊 Multimedia Integration
+### Multimedia Integration
 The game incorporates audio playback, custom images, and interactive visual elements to create an immersive experience.
 
 ## How the Code Works (Short Summary)
